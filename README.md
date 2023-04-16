@@ -1,6 +1,6 @@
 ![MasterHead](https://flag.pt/media/2021/05/site-BWDS.jpg)
 <h1 align="center">Hi 👋, I'm Bartu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey :computer:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartwo21&label=Profile%20views&color=0e75b6&style=flat" alt="bartwo21" /> </p>
