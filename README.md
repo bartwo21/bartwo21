@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/bartu-çakır-98021b216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/bartu-çakır-98021b216/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bartu-%C3%A7ak%C4%B1r-98021b216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/bartu-çakır-98021b216/" height="30" width="40" /></a>
 <a href="https://instagram.com/bar.two" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bar.two" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2ZWT2dhKO8LDsJBJkA7J4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartwo2" height="30" width="40" /></a>
 </p>
