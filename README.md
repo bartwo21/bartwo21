@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Turkey :computer:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartwo21&label=Profile%20views&color=0e75b6&style=flat" alt="bartwo21" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartwo21&label=Profile%20views&color=0e75b6&style=flat" alt="bartwo21" /> </p>--->
 
 - 🌱 I’m currently learning **Next.js**
 
